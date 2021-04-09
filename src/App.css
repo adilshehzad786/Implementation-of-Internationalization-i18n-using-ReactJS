@@ -1,0 +1,22 @@
+.page {
+  height: 100vh;
+  padding: 150px;
+}
+
+.page__container {
+  background: #ffffff;
+  padding: 20px;
+}
+
+.page__content {
+  margin-top: 50px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+p,
+.ant-radio-group {
+  font-size: 16px;
+}
